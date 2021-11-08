@@ -3,8 +3,5 @@
     "Author": "Translator seiji",
     "Version": "1.0.0",
     "Description": "Thai Language For Item Bags 1.5.3",
-    "UpdateKeys": [ "Nexus:10085" ],
-    "ContentPackFor": {
-      "UniqueID": "SlayerDharok.Item_Bags"
-    }
+    "UpdateKeys": [ "Nexus:10085" ]
 }
