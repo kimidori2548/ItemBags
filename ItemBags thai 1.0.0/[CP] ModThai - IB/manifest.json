@@ -4,5 +4,6 @@
     "Version": "1.0.0",
     "Description": "Thai Language For Item Bags 1.5.3",
     "UniqueID": "seiji.Item_Bags",
+    "EntryDll": "ItemBags.dll",
     "UpdateKeys": [ "Nexus:10085" ]
 }
